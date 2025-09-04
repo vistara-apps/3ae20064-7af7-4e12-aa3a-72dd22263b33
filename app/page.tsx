@@ -69,7 +69,7 @@ export default function HomePage() {
   const [activeTab, setActiveTab] = useState('active');
   const [isCreateModalOpen, setIsCreateModalOpen] = useState(false);
 
-  const activeBets = mockBets.filter(bet => bet.status === 'open' || bet.status === 'active');
+  const activeBets = mockBets.filter(bet => bet.status === 'open');
   const myBets = mockBets.filter(bet => bet.creator.farcasterId === mockUser.farcasterId);
 
   return (
