@@ -1,0 +1,14 @@
+{
+  "name": "BetBridge",
+  "description": "BetBridge is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://3ae20064-7af7-4e12-aa3a-72dd22263b33.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "BetBridge",
+      "description": "BetBridge is a Base Mini App built with Zara.",
+      "url": "https://3ae20064-7af7-4e12-aa3a-72dd22263b33.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "BetBridge",
+    "subtitle": "Built with Zara",
+    "description": "BetBridge is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://3ae200647af74e12aa3a72dd22263b33-w4cn-inp234v34-vistara.vercel.app",
+    "splashImageUrl": "https://3ae200647af74e12aa3a72dd22263b33-w4cn-inp234v34-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://3ae200647af74e12aa3a72dd22263b33-w4cn-inp234v34-vistara.vercel.app/image.png",
+    "tagline": "BetBridge",
+    "screenshotUrls": [
+      "https://3ae200647af74e12aa3a72dd22263b33-w4cn-inp234v34-vistara.vercel.app/screenshot.png",
+      "https://3ae200647af74e12aa3a72dd22263b33-w4cn-inp234v34-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://3ae200647af74e12aa3a72dd22263b33-w4cn-inp234v34-vistara.vercel.app/api/webhook"
+  }
+}
